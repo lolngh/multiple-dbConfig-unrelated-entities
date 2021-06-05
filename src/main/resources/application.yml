@@ -1,0 +1,23 @@
+server:
+  port: 8333
+
+#Properties for simple multiple datasource implementation  - Auto-properties config 
+#ngh:
+#  datasource:
+#     user:
+#      username: SYSTEM
+#      password: 
+#      url: jdbc:oracle:thin:@localhost:1521:xe
+#      driver-class-name: oracle.jdbc.OracleDriver
+#      
+#    data-block:
+#      username: root
+#      password: 
+#      url: jdbc:mysql://localhost:3306/datablock?createDatabaseIfNotExist=true
+#      driver-class-name: com.mysql.cj.jdbc.Driver
+      
+#spring:#  jpa:
+#    hibernate:#      ddl-auto: update
+#    generate-ddl: true  
+#    show-sql: true 
+    
